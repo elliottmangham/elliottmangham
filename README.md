@@ -4,7 +4,9 @@ Freelance Creative Developer, Founder of [Code Resolution](https://github.com/co
 <br />
 Nottinghamshire, United Kingdom
 <br />
+<br />
 Portfolio - [elliott.mangham.dev](https://elliott.mangham.dev/)
+<br />
 Studio - [coderesolution.com](https://coderesolution.com/)
 
 ### Connect with me
