@@ -46,8 +46,6 @@ Forbes, Vanity Fair, The New York Times, Computer Arts (Net Magazine), Communica
 -  Client Funding Raised: $120M+<br />
 -  Client Combined Market Cap: $326B+ (approx, late Feb 2026; does not represent value created)
 
----
-
 [website]: https://elliott.mangham.dev
 [twitter]: https://twitter.com/elliottmangham
 [github]: https://github.com/elliottmangham
