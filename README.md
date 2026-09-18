@@ -30,25 +30,20 @@ Studio - [coderesolution.com](https://coderesolution.com/)
 -  Portfolio Honors, Awwwards<br />
 -  eCommerce Honors, Awwwards<br />
 -  28× Honors/Special Kudos (Awwwards/CSSDA)<br />
--  18x One Page Love<br />
+-  18x One Page Love
 
-<br />
 <br />
 
 ### Selected clients
 
 Universal Music Group, Peugeot, Vivienne Westwood, Zoom, The Spectator, Warner Music Group, Live Nation, Fox's Biscuits, Daily Mail, Anytime Fitness, ScS, Halfords, Cipher Digital, Northern Energy, Atlantic Records, Goodfella's Pizza, Sipsmith Gin, House Of Fraser, Disney, Tuffnells, Butternuts, Kelly Clarkson, Harry Ramsden's, FoundersCard.
 
-Collaborations span USA, Canada, United Kingdom, France and Australia.
-
-<br />
 <br />
 
 ### Work Publication and Features
 
 Forbes, Vanity Fair, The New York Times, Computer Arts (Net Magazine), Communication Arts, NBS, CBN, Hollywood Reporter, MSN, Fast Company, AOL, Muzli, Samsung Next, Codrops Webzibition, One Page Love, Admire The Web, A1, Mindsparkle and a best-selling author's hardcover.
 
-<br />
 <br />
 
 ### The Numbers (last updated Feb, 2026)
@@ -57,7 +52,6 @@ Forbes, Vanity Fair, The New York Times, Computer Arts (Net Magazine), Communica
 -  Client Funding Raised: $120M+<br />
 -  Client Combined Market Cap: $326B+ (approx, late Feb 2026; does not represent value created)
 
-<br />
 <br />
 
 [website]: https://elliott.mangham.dev
